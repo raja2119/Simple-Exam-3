@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "5d7a514b5d2c12c7449be045",
+      "name": "Raja Mistry",
+      "email": "rm@gmail.com",
+      "password": "123456"
+    },
+    {
+      "_id": "5d7a514b5d2c12c7449be046",
+      "name": "Rajat Das",
+      "email": "rd@gmail.com",
+      "password": "123456"
+    },
+    {
+      "_id": "5c8a1d5b0190b214360dc031",
+      "name": "Sai Kumar",
+      "email": "sk@gmail.com",
+      "password": "123456"
+    },
+    {
+      "_id": "5c8a1d5b0190b214360dc032",
+      "name": "Maharghya Ghosh",
+      "email": "mg@gmail.com",
+      "password": "123456"
+    },
+    {
+      "_id": "5c8a1d5b0190b214360dc033",
+      "name": "Akash Basak",
+      "email": "ak@gmail.com",
+      "password": "123456"
+    },
+    {
+      "_id": "5c8a1d5b0190b214360dc034",
+      "name": "Saklin Habib",
+      "email": "sh@gmail.com",
+      "password": "123456"
+    }
+  ]
